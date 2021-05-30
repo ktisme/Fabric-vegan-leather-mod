@@ -1,0 +1,26 @@
+{
+  "group": "crafting_vegan_leather",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cactus"
+    },
+    "1": {
+      "item": "minecraft:cactus"
+    },
+    "2": {
+      "item": "minecraft:cactus"
+    },
+    "3": {
+      "item": "minecraft:cactus"
+    }
+  },
+  "result": {
+    "item": "vegan_leather:vegan_leather",
+    "count": 1
+  }
+}

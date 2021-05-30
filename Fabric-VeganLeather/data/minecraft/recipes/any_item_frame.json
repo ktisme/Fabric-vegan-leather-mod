@@ -1,0 +1,17 @@
+{
+  "group":"item_frame"
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    "/L/",
+    "///"
+  ],
+  "key": {
+    "/": {"item": "minecraft:stick"},
+    "L": {"tag": "vegan_leather:any_leather"}
+    },
+  "result": {
+    "item": "minecraft:item_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "leather",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vegan_leather:vegan_leather"
+    },
+    {
+      "item": "vegan_leather:vegan_leather"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "vegan_leather",
+  "version": "1.0.0",
+  "name": "Vegan Leather",
+  "description": "This is a vegan leather, made of vanilla item plant materials, No animals were harmed in the making of this leather.",
+  "authors": [
+    "KT800404, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
+  },
+  "license": "MIT License",
+  "icon": "assets/vegan_leather/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.veganleather.VeganLeatherMod"
+    ],
+    "client": [
+      "net.mcreator.veganleather.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.9.0",
+    "fabric": "*"
+  }
+}

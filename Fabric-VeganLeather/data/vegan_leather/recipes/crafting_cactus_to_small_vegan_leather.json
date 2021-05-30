@@ -1,0 +1,13 @@
+{
+  "group": "crafting_smal_lvegan_leather",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "item": "vegan_leather:small_vegan_leather",
+    "count": 1
+  }
+}

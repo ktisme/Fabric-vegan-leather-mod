@@ -1,0 +1,39 @@
+{
+  "group": "leather_chestplate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "2": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "3": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "4": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "5": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "6": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "7": {
+      "item": "vegan_leather:vegan_leather"
+    },
+    "8": {
+      "item": "vegan_leather:vegan_leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather_chestplate",
+    "count": 1
+  }
+}

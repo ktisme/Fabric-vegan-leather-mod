@@ -1,0 +1,26 @@
+{
+  "group": "crafting_vegan_leather",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "vegan_leather:small_vegan_leather"
+    },
+    "1": {
+      "item": "vegan_leather:small_vegan_leather"
+    },
+    "2": {
+      "item": "vegan_leather:small_vegan_leather"
+    },
+    "3": {
+      "item": "vegan_leather:small_vegan_leather"
+    }
+  },
+  "result": {
+    "item": "vegan_leather:vegan_leather",
+    "count": 1
+  }
+}
