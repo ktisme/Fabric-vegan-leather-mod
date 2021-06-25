@@ -1,1 +1,1 @@
-# Fabric-vegan-leather-mod
+# Fabric-Vegan Leather Mod
